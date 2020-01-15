@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-15T08:32:03.780Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="i0SRejsd3BeORH4rAs0H" version="12.5.3" type="github">
+<mxfile host="www.draw.io" modified="2020-01-15T08:36:16.353Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="DbNap-r-49553uaiIscC" version="12.5.3" type="github">
   <diagram id="0EH3olBFqnhFymJMHP70" name="Page-1">
     <mxGraphModel dx="2066" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,17 +121,14 @@
         <mxCell id="-UwRbHGBUcmQI9_FIhXQ-7" value="Number: 320" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="220" y="870" width="120" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="pgxlMCb6BvmPWI_ls00N-2" value="" style="endArrow=none;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="1230" as="sourcePoint"/>
-            <mxPoint x="110" y="1180" as="targetPoint"/>
-          </mxGeometry>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-9" value="Devleopment" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="890" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="pgxlMCb6BvmPWI_ls00N-5" value="" style="endArrow=none;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="1300" as="sourcePoint"/>
-            <mxPoint x="110" y="1250" as="targetPoint"/>
-          </mxGeometry>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-10" value="Quality" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="980" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-11" value="Production" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1070" width="120" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
