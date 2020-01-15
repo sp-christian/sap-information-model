@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-15T08:22:48.165Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="LDfqiqDF6rY2HH43mRxu" version="12.5.3" type="github">
+<mxfile host="www.draw.io" modified="2020-01-15T08:32:03.780Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="i0SRejsd3BeORH4rAs0H" version="12.5.3" type="github">
   <diagram id="0EH3olBFqnhFymJMHP70" name="Page-1">
-    <mxGraphModel dx="2431" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -14,34 +14,50 @@
           <mxGeometry x="200" y="480" width="720" height="320" as="geometry"/>
         </mxCell>
         <mxCell id="2iofssYLNBHGnX9hxQKu-1" value="Test Run" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="200" width="120" height="80" as="geometry"/>
+          <mxGeometry x="930" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="2iofssYLNBHGnX9hxQKu-2" value="Test Script" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="300" width="120" height="60" as="geometry"/>
+          <mxGeometry x="930" y="100" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2iofssYLNBHGnX9hxQKu-3" target="2iofssYLNBHGnX9hxQKu-15">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-8" value="&amp;lt; represents one step in&lt;br&gt;is tested by &amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="pgxlMCb6BvmPWI_ls00N-7">
+          <mxGeometry x="0.131" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2iofssYLNBHGnX9hxQKu-3" value="Test Step" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="380" width="120" height="60" as="geometry"/>
+          <mxGeometry x="930" y="280" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="2iofssYLNBHGnX9hxQKu-6" value="Custom Code Unit" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="550" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="2iofssYLNBHGnX9hxQKu-7" value="SAP Module" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="420" y="670" width="290" height="120" as="geometry"/>
+        <mxCell id="2iofssYLNBHGnX9hxQKu-7" value="SAP Module" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="420" y="670" width="290" height="380" as="geometry"/>
         </mxCell>
         <mxCell id="2iofssYLNBHGnX9hxQKu-8" value="Business Process" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="80" width="160" height="80" as="geometry"/>
+          <mxGeometry x="480" y="120" width="160" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="2iofssYLNBHGnX9hxQKu-11" value="SAP Configuration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="1040" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="2iofssYLNBHGnX9hxQKu-12" value="SAP Module Master Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="970" width="120" height="60" as="geometry"/>
+          <mxGeometry x="430" y="970" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="2iofssYLNBHGnX9hxQKu-14" value="SAP Module &lt;br&gt;Master Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="720" width="120" height="60" as="geometry"/>
+        <mxCell id="2iofssYLNBHGnX9hxQKu-14" value="&lt;div&gt;SAP Module&lt;br&gt;Code&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="700" width="270" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="2iofssYLNBHGnX9hxQKu-15" target="2iofssYLNBHGnX9hxQKu-18">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-4" value="&amp;lt; is performed by&lt;br&gt;is used by&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="pgxlMCb6BvmPWI_ls00N-3">
+          <mxGeometry x="-0.4349" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2iofssYLNBHGnX9hxQKu-15" value="Process Step" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="240" width="160" height="80" as="geometry"/>
+          <mxGeometry x="480" y="280" width="160" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="2iofssYLNBHGnX9hxQKu-17" value="Function Module" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="520" width="120" height="60" as="geometry"/>
@@ -79,37 +95,43 @@
             <mxPoint y="-1" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-UwRbHGBUcmQI9_FIhXQ-1" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="-UwRbHGBUcmQI9_FIhXQ-3" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="2iofssYLNBHGnX9hxQKu-15" target="2iofssYLNBHGnX9hxQKu-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="350" as="sourcePoint"/>
-            <mxPoint x="160" y="300" as="targetPoint"/>
+            <mxPoint x="630" y="585" as="sourcePoint"/>
+            <mxPoint x="940" y="460" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-UwRbHGBUcmQI9_FIhXQ-3" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2iofssYLNBHGnX9hxQKu-15" target="2iofssYLNBHGnX9hxQKu-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="545" as="sourcePoint"/>
-            <mxPoint x="940" y="420" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-UwRbHGBUcmQI9_FIhXQ-4" value="comprises ↑&lt;br&gt;↓ is part of a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="-UwRbHGBUcmQI9_FIhXQ-3">
+        <mxCell id="-UwRbHGBUcmQI9_FIhXQ-4" value="comprises ↑&lt;br&gt;↓ is part of a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="-UwRbHGBUcmQI9_FIhXQ-3" vertex="1" connectable="0">
           <mxGeometry x="-0.0764" relative="1" as="geometry">
             <mxPoint y="-1" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-UwRbHGBUcmQI9_FIhXQ-5" value="SID: &#39;D01&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+        <mxCell id="-UwRbHGBUcmQI9_FIhXQ-5" value="SID: &#39;D01&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="60" y="560" width="120" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="-UwRbHGBUcmQI9_FIhXQ-6" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="410" width="40" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="-UwRbHGBUcmQI9_FIhXQ-7" value="Number: 320" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="220" y="870" width="120" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="2iofssYLNBHGnX9hxQKu-19" value="Mandant" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="220" y="840" width="670" height="110" as="geometry"/>
         </mxCell>
         <mxCell id="2iofssYLNBHGnX9hxQKu-13" value="SAP Module Transactional Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="850" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-1" value="SAP Function Libraries" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="220" y="640" width="190" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="-UwRbHGBUcmQI9_FIhXQ-7" value="Number: 320" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="220" y="870" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-2" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1230" as="sourcePoint"/>
+            <mxPoint x="110" y="1180" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-5" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1300" as="sourcePoint"/>
+            <mxPoint x="110" y="1250" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
