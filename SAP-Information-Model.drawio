@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-15T09:14:05.680Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="E6LZC9UTjd1s5oilyQt3" version="12.5.3" type="github">
+<mxfile host="www.draw.io" modified="2020-01-15T09:17:48.452Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="_XtU5qiIn4ZBevnOGuXN" version="12.5.3" type="github">
   <diagram id="0EH3olBFqnhFymJMHP70" name="Page-1">
-    <mxGraphModel dx="1181" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -196,18 +196,6 @@
         <mxCell id="pgxlMCb6BvmPWI_ls00N-33" value="&lt;i&gt;Collection of &lt;/i&gt;Function Modules&lt;i&gt; using the same data&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="380" y="640" width="190" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="pgxlMCb6BvmPWI_ls00N-34" value="BAPI&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="190" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="pgxlMCb6BvmPWI_ls00N-35" value="&lt;div&gt;Business Application Programming Interface &lt;i&gt;exposes a set of interfaces&lt;/i&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="80" y="145" width="190" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="pgxlMCb6BvmPWI_ls00N-36" value="Business Object Type" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="190" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="pgxlMCb6BvmPWI_ls00N-37" value="&lt;div&gt;&lt;i&gt;Represents a&lt;/i&gt; business entity&lt;i&gt; like &lt;/i&gt;Sales Order, Product, Employee.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="320" y="145" width="190" height="30" as="geometry"/>
-        </mxCell>
         <mxCell id="pgxlMCb6BvmPWI_ls00N-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="pgxlMCb6BvmPWI_ls00N-34" target="pgxlMCb6BvmPWI_ls00N-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="330" as="sourcePoint"/>
@@ -218,6 +206,35 @@
           <mxGeometry x="-0.5604" y="-1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-43" value="" style="endArrow=none;html=1;fontSize=10;" edge="1" parent="1" source="pgxlMCb6BvmPWI_ls00N-34" target="pgxlMCb6BvmPWI_ls00N-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="293" y="281" as="sourcePoint"/>
+            <mxPoint x="343" y="231" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-46" value="exposes &amp;gt;&lt;br&gt;&amp;lt; is exposed by" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="pgxlMCb6BvmPWI_ls00N-43">
+          <mxGeometry x="0.6667" y="3" relative="1" as="geometry">
+            <mxPoint x="-55" y="3" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="420" y="120" width="190" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-36" value="Business Object Type" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;" vertex="1" parent="pgxlMCb6BvmPWI_ls00N-44">
+          <mxGeometry width="190" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-37" value="&lt;div&gt;&lt;i&gt;Represents a&lt;/i&gt; business entity&lt;i&gt; like &lt;/i&gt;Sales Order, Product, Employee.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="pgxlMCb6BvmPWI_ls00N-44">
+          <mxGeometry y="25" width="190" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="120" width="190" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-34" value="BAPI&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;" vertex="1" parent="pgxlMCb6BvmPWI_ls00N-45">
+          <mxGeometry width="190" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-35" value="&lt;div&gt;Business Application Programming Interface &lt;i&gt;exposes a set of interfaces&lt;/i&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="pgxlMCb6BvmPWI_ls00N-45">
+          <mxGeometry y="25" width="190" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
