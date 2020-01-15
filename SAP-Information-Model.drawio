@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-15T09:29:57.017Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="3nEwu9ef9jkRIWwgIcFL" version="12.5.3" type="github">
+<mxfile host="www.draw.io" modified="2020-01-15T09:31:25.630Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="cAxQtKkkjgAcOWDdYfYn" version="12.5.3" type="github">
   <diagram id="0EH3olBFqnhFymJMHP70" name="Page-1">
     <mxGraphModel dx="2066" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="2iofssYLNBHGnX9hxQKu-18" value="SAP Instance" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="60" y="440" width="1080" height="720" as="geometry"/>
         </mxCell>
-        <mxCell id="2iofssYLNBHGnX9hxQKu-10" value="Database (SAP HANA)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="2iofssYLNBHGnX9hxQKu-10" value="Database (SAP HANA)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="200" y="810" width="890" height="310" as="geometry"/>
         </mxCell>
         <mxCell id="2iofssYLNBHGnX9hxQKu-9" value="SAP Execution Environment" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
@@ -60,7 +60,7 @@
           <mxGeometry x="740" y="120" width="160" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="2iofssYLNBHGnX9hxQKu-11" value="SAP Configuration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="1040" width="120" height="60" as="geometry"/>
+          <mxGeometry x="220" y="980" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="2iofssYLNBHGnX9hxQKu-12" value="SAP Module Master Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="970" width="120" height="60" as="geometry"/>
@@ -253,6 +253,18 @@
         </mxCell>
         <mxCell id="pgxlMCb6BvmPWI_ls00N-52" value="&lt;i&gt;A group of logically related &lt;/i&gt;development objects&lt;i&gt;.&lt;/i&gt;&lt;br&gt;Alias: Development Class" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="pgxlMCb6BvmPWI_ls00N-50">
           <mxGeometry y="28" width="150" height="42" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="230" width="190" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-54" value="IDoc" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;verticalAlign=top;" vertex="1" parent="pgxlMCb6BvmPWI_ls00N-53">
+          <mxGeometry width="190" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-55" value="&lt;div&gt;Structure for data interchange&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="pgxlMCb6BvmPWI_ls00N-53">
+          <mxGeometry y="28.57142857142857" width="190" height="34.285714285714285" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-56" value="Table" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1040" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
