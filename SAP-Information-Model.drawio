@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-15T09:39:30.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="izjcrD97Prpvyyuxijzm" version="12.5.3" type="github">
+<mxfile host="www.draw.io" modified="2020-01-15T09:40:44.419Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="cVCInrFd_1OlsEQKbNvR" version="12.5.3" type="github">
   <diagram id="0EH3olBFqnhFymJMHP70" name="Page-1">
     <mxGraphModel dx="2066" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -281,6 +281,9 @@
         </mxCell>
         <mxCell id="pgxlMCb6BvmPWI_ls00N-65" value="Data Control Language" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="pgxlMCb6BvmPWI_ls00N-63">
           <mxGeometry y="30" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="pgxlMCb6BvmPWI_ls00N-68" value="Release" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;horizontal=1;verticalAlign=top;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="240" width="120" height="90" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
