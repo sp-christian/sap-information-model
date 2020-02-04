@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-04T14:12:32.793Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="IJaB98qLF3cir8BppMmu" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-04T14:15:13.255Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="oAGpxJo9UIR20YqyiqFK" version="12.6.5" type="github">
   <diagram id="0EH3olBFqnhFymJMHP70" name="Page-1">
-    <mxGraphModel dx="2066" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1181" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -240,7 +240,7 @@
           <mxGeometry y="28.57142857142857" width="190" height="34.285714285714285" as="geometry"/>
         </mxCell>
         <mxCell id="pgxlMCb6BvmPWI_ls00N-56" value="Table" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="1060" width="110" height="40" as="geometry"/>
+          <mxGeometry x="550" y="1060" width="110" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="pgxlMCb6BvmPWI_ls00N-70" value="" style="endArrow=none;html=1;comic=0;" parent="1" source="pgxlMCb6BvmPWI_ls00N-68" target="Iur5KssqbXEMNTJ_cMOl-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -296,13 +296,13 @@
           <mxGeometry y="28" width="150" height="42" as="geometry"/>
         </mxCell>
         <mxCell id="pgxlMCb6BvmPWI_ls00N-57" value="CDS Entity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="1060" width="120" height="30" as="geometry"/>
+          <mxGeometry x="670" y="1060" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="pgxlMCb6BvmPWI_ls00N-58" value="CDS View" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="960" width="120" height="30" as="geometry"/>
+          <mxGeometry x="670" y="970" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="pgxlMCb6BvmPWI_ls00N-59" value="CDS Table Function" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="995" width="120" height="30" as="geometry"/>
+          <mxGeometry x="670" y="1010" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="pgxlMCb6BvmPWI_ls00N-68" value="Release" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;horizontal=1;verticalAlign=top;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="1300" y="620" width="120" height="90" as="geometry"/>
@@ -508,6 +508,12 @@
             <mxPoint x="540" y="370" as="sourcePoint"/>
             <mxPoint x="110" y="1180" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="i93bUUU3VvVKLUfZ8UK9-7" value="SAP Module Table" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="970" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="i93bUUU3VvVKLUfZ8UK9-8" value="Custom Table" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="970" width="80" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
