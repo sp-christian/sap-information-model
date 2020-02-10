@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-10T06:57:17.401Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="7KKCToT9eNr0xW1vzJr8" version="12.6.6" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-02-10T13:35:42.484Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="4MfIJn92uzxD4rdrn-BT" version="12.6.6" type="github" pages="2">
   <diagram id="0EH3olBFqnhFymJMHP70" name="Overview">
     <mxGraphModel dx="1977" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -680,6 +680,9 @@
         </mxCell>
         <mxCell id="LBrrTAisdYtGi5HJMqQw-24" value="Dictionary" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YrLu8czAH6G_jpTdL-x_-1">
           <mxGeometry x="120" y="120" width="160" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="LBrrTAisdYtGi5HJMqQw-25" value="Business object repository&lt;br&gt;(BOR)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YrLu8czAH6G_jpTdL-x_-1">
+          <mxGeometry x="280" y="200" width="160" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
